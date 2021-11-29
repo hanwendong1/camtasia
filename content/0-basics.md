@@ -1,6 +1,6 @@
 ---
 title: The Basics
-nav: Prep
+nav: Basics
 topics: GitHub; Optional Software
 ---
 
@@ -31,8 +31,13 @@ To install Camtasia on your macOS-based computer, follow the steps below:
 ## Camtasia Editor Interface
 {% include figure.html img="EditorInterface.png" alt="Camtasia Editor Interface" caption="Camtasia Editor Interface" width="75%" %}
 The `timeline` allows you to edit your clips. Most of your editing is done on the timeline. 
+
 The `media bin` stores your media (audios, videos, images).
+
 The `tools panel` allows you to add additional animations, effects, etc. 
+
 The `canvas` allows you to preview your media. 
+
 The `properties panel` allows you to customize your media and effects.
+
 You can start a new screencast recording by pressing the `record` button. 
