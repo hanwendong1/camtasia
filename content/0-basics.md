@@ -25,7 +25,8 @@ To install Camtasia on your Windows-based computer, follow the steps below:
 
 To install Camtasia on your macOS-based computer, follow the steps below:
 
-{% capture text %}Make sure that your device meets the [minimum system requirements]( https://www.techsmith.com/camtasia-system-requirements.html) {:target="_blank" rel="noopener"}.{% endcapture %} {% include alert.md text=text color="warning" %}
+{% include alert.html text="Make sure that your device meets the [minimum system requirements]( https://www.techsmith.com/camtasia-system-requirements.html)." align="center" color="warning" %}
+
 
 ## Camtasia Editor Interface
 {% include figure.html img="EditorInterface.png" alt="Camtasia Editor Interface" caption="Camtasia Editor Interface" width="75%" %}
