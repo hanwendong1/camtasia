@@ -1,6 +1,7 @@
 ---
 title: Resources
 nav: Resources
+topics: Camtasia Resources; Media Assets; Library Resources
 ---
 
 ## Camtasia Resources
@@ -13,7 +14,25 @@ nav: Resources
 -	[TechSmith User Community](https://support.techsmith.com/hc/en-us/community/topics){:target="_blank" rel="noopener"} (Have questions? Interact with TechSmith employees and other users to get answers and send your feedback)
 -	Create Instructional Videos Using Camtasia (The pre-recorded video for this workshop session)
 
-## Other Resources
+## Media Assets
+- Stock Images
+ - [Creative Commons](https://search.creativecommons.org/){:target="_blank" rel="noopener"} (creative commons license)
+ - [Flickr](https://www.flickr.com/search/?license=2%2C3%2C4%2C5%2C6%2C9){:target="_blank" rel="noopener"} (creative commons license)
+ - [Pexels](https://www.pexels.com/){:target="_blank" rel="noopener"} (free)
+ - [Pixabay](https://pixabay.com/images/search/){:target="_blank" rel="noopener"} (free)
+ - [Unsplash](https://unsplash.com/){:target="_blank" rel="noopener"} (free)
+- Icons
+ - [Flaticon](https://www.flaticon.com/){:target="_blank" rel="noopener"} (attribution or free with subscription)
+ - [Freeicons.io](https://freeicons.io/){:target="_blank" rel="noopener"} (free)
+ - [Freepik](https://www.freepik.com/search?dates=any&format=search&page=1&selection=1&sort=popular&type=icon){:target="_blank" rel="noopener"} (free)
+- Music
+ - [Videvo](https://www.videvo.net/royalty-free-music/){:target="_blank" rel="noopener"} (free)
+ - [Free Music Archive](https://freemusicarchive.org/){:target="_blank" rel="noopener"} (free)
+- Sound Effects
+ - [Videvo](https://www.videvo.net/royalty-free-sound-effects/){:target="_blank" rel="noopener"} (free)
+ - [YouTube Audio Library](Youtube.com/audiolibrary){:target="_blank" rel="noopener"} (requires sign-in to Google account)
+
+## Other Library Resources
 - [U of I library workshop calendar](https://www.lib.uidaho.edu/services/workshops/){:target="_blank" rel="noopener"} (Check out the workshop calendar for upcoming events)
 - [U of I library workshop resources](https://www.lib.uidaho.edu/services/workshops/resources.html){:target="_blank" rel="noopener"} (Check out the workshop resources from past events)
-- [U of I library YouTube channel](https://www.youtube.com/user/UofILibrary){:target="_blank" rel="noopener"} (Check out the YouTube channel for other workshop recordings and more)
+- [U of I library YouTube channel](https://www.youtube.com/user/UofILibrary){:target="_blank" rel="noopener"} (Check out the YouTube channel for recordings of other workshops and more)
