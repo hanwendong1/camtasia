@@ -4,14 +4,14 @@ nav: Instructional Videos
 topics: Edit Lectures; Record PPT; Tutorial Videos; Interactive Videos
 ---
 
-If you simply need to record your computer screen or talking to the screen, Zoom and Microsoft Teams are more than enough to handle that since you can start and record a one-person meeting. However, Zoom and Teams lack the functionalities to make additional edits, and that's where Camtasia comes in, especially if you want to elevate your instructional videos to the next level. 
+If you simply need to record yourself talking to the screen or your computer screen, Zoom and Microsoft Teams are more than enough to handle that as you can start and record a one-person meeting. However, Zoom and Teams lack the functionalities to make additional edits, and that's where Camtasia shines, especially if you want to elevate your instructional videos to the next level. 
 
 ## Edit Zoom/Teams lecture recordings
 
 If you have some lecture recordings that you are hoping to polish, Camtasia is a great tool for that. First, you can remove any sections of a recording that you don't want, such as a roll call. Then, additionally, you can add media and apply effects such as:
 - Add annotations (such as texts) and images to supplment the existing content or correct any mistakes made in the recording
 - Improve the audio by applying a noise reduction if the recording picked up any noise sources or boosting the overall volume if the audio level in the recording is low. To adjust the volume, right-click the recording in the timeline and choose `Edit audio` and drag the audio clip upward.
-- Apply transitions to the beginning and the end of the recording. A `fade` is typically sufficient - simple, and not over-the-top.
+- Apply transitions to the beginning and the end of the recording. A simple and not over-the-top `fade` transition is typically sufficient.
 
 ## Record a PowerPoint slide show with narration
 
@@ -27,7 +27,7 @@ You can not only reposition and resize the camera recording but also create a cu
 
 ## Create Screencast Tutorial Videos
 
-{% include figure.html img="StartaScreencastRecording.png" alt="Start a Screencast Recording" caption="Start a Screencast Recording" width="75%" %}
+{% include figure.html img="StartaScreencastRecording.png" alt="Start a Screencast Recording" caption="Start a Screencast Recording" width="85%" %}
 
 To start a new recording, click the red `Record` button on the top left. You can customize your recording by choosing your recording region and toggling on/off your webcam, microphone, and system audio. Once you complete the recording, click Stop, then the recording will appear in the media bin, canvas, and timeline. 
 
@@ -53,4 +53,4 @@ In `Properties`, you can customize the quiz by choosing the quiz type and adding
 
 In addition to quizzes, you can add clickable interactive hotspots to a video that allows viewers to click the hotspot to get to a specific point in the video or a webpage. This could be useful if you want them to click a specific part of the video, such as a concept or a function that you just explained, to continue. Hotspots can also be used as branching scenarios or a concluding screen which allows viewers to revisit certain sections of the video that they watched.
 
-{% include figure.html img="HotspotExamples.png" alt="Examples of a branching and a concluding screen with hotspots" caption="Examples of a branching and a concluding screen with hotspots" width="75%" %}
+{% include figure.html img="HotspotExamples.png" alt="Examples of a branching and a concluding screen with hotspots" caption="Examples of a branching and a concluding screen with hotspots" width="90%" %}

@@ -6,7 +6,7 @@ topics: Timeline Editing
 
 Camtasia editor allows you to refine your video by removing unwanted parts and adding additional media such as texts, audios, visuals, and effects.
 
-{% include figure.html img="TimelineOverview.png" alt="Timeline Overview" caption="Hover your mouse to each button to learn its functionality" width="75%" %}
+{% include figure.html img="TimelineOverview.png" alt="Timeline Overview" caption="Hover your mouse to each button to learn its functionality" width="95%" %}
 
 To **import media**, click `+` in the `media bin` or click the `import media…` button. You can then drag the imported media to the timeline to start editing.
 

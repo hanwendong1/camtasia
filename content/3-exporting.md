@@ -8,11 +8,11 @@ Save your project early and save it often. Navigate to `File`, then choose `Save
 
 ## Saving as a Local File
 
-{% include figure.html img="ExportOptions.png" alt="ExportOptions" caption="Export Options" width="75%" %}
+{% include figure.html img="ExportOptions.png" alt="ExportOptions" caption="Export Options" width="50%" %}
 
 To export a video as a local file, navigate to `Export`, then choose `Local File…` and choose `MP4 only (up to 720P)` or `MP4 only (up to 1080P)` as the standard option. For more configuration options, choose `Custom production settings`.
 
-If the video contains interactivity such as hotspots and quizzes, exporting requires a specific process to ensure that the final video would retain the functionalities. Navigate to `Export`, then choose `Local File…`, select one of the options with `MP4 with Smart Player` and make sure that the `Report quiz results using SCORM` box is checked.
+If the video contains interactivity such as hotspots and quizzes, exporting requires a specific process to ensure that the final video would retain the functionalities. Navigate to `Export`, then choose `Local File…`, select one of the options with `MP4 with Smart Player` and make sure that the `Report quiz results using SCORM` box is checked if the video will be uploaded to Canvas.
 
 ## Sharing to YouTube
 To upload a video to YouTube, navigate to `Export`, then choose `YouTube…`. Once you sign in, you can add a title and a description. If you added markers on the timeline, you can check the `Create table of contents from markers` box to generate automatic chapters based on the markers for the final YouTube video. If you want to publish to YouTube but don't have a google account or only have a personal account, I recommend create a google account for work purposes.
