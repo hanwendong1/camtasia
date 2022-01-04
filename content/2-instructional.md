@@ -29,7 +29,7 @@ You can not only reposition and resize the camera recording but also create a cu
 
 {% include figure.html img="StartaScreencastRecording.png" alt="Start a Screencast Recording" caption="Start a Screencast Recording" width="85%" %}
 
-To start a new recording, click the red `Record` button on the top left. You can customize your recording by choosing your recording region and toggling on/off your webcam, microphone, and system audio. Once you complete the recording, click Stop, then the recording will appear in the media bin, canvas, and timeline. 
+To start a new recording, click the red `Record` button on the top left. You can customize your recording by choosing your recording region and toggling on/off your webcam, microphone, and system audio. Click the red `rec` start button to record. Once you complete the recording, click Stop, then the recording will appear in the media bin, canvas, and timeline. 
 
 The audio and video are on one track by default. To move the audio to a separate track, right click the clip on the timeline, and choose `Separate Audio and Video`.
 
