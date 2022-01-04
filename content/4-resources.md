@@ -29,7 +29,7 @@ topics: Camtasia Resources; Media Assets; Library Resources
   - [Free Music Archive](https://freemusicarchive.org/){:target="_blank" rel="noopener"} (free)
 - Sound Effects
   - [Videvo](https://www.videvo.net/royalty-free-sound-effects/){:target="_blank" rel="noopener"} (free)
-  - [YouTube Audio Library](Youtube.com/audiolibrary){:target="_blank" rel="noopener"} (requires sign-in to Google account)
+  - [YouTube Audio Library](https://youtube.com/audiolibrary){:target="_blank" rel="noopener"} (requires sign-in to Google account)
 
 ## Other Library Resources
 - [U of I library workshop calendar](https://www.lib.uidaho.edu/services/workshops/){:target="_blank" rel="noopener"} (Check out the workshop calendar for upcoming events)
