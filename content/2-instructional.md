@@ -51,6 +51,6 @@ You can add quizzes and hotspots to a Camtasia video. To add a quiz to the timel
 
 In `Properties`, you can customize the quiz by choosing the quiz type and adding question, answers, and feedback.
 
-In addition to quizzes, you can add clickable interactive hotspots to a video that allows viewers to click the hotspot to get to a specific point in the video or a webpage. This could be useful if you want them to click a specific part of the video, such as a concept or a function that you just explained, to continue. Hotspots can also be used as branching scenarios or a concluding screen which allows viewers to revisit certain sections of the video that they watched.
+In addition to quizzes, you can add clickable interactive hotspots (under `Visual Effects`) to a video that allows viewers to click the hotspot to get to a specific point in the video or a webpage. This could be useful if you want them to click a specific part of the video, such as a concept or a function that you just explained, to continue. Hotspots can also be used as branching scenarios or a concluding screen which allows viewers to revisit certain sections of the video that they watched.
 
 {% include figure.html img="HotspotExamples.png" alt="Examples of a branching and a concluding screen with hotspots" caption="Examples of a branching and a concluding screen with hotspots" width="90%" %}
