@@ -9,6 +9,8 @@ As part of the GEER grant, the University of Idaho has secured a license to use 
 
 Please access the pre-recorded video for this workshop session below.
 
+{% include video-embed.html youtubeid="uUsB1qsJ2Z8" caption="Workshop Video Recording" %}
+
 {% include toc.html %}
 
 Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
