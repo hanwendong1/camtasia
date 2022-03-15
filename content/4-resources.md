@@ -5,7 +5,7 @@ topics: Camtasia Resources; Media Assets; Library Resources
 ---
 
 ## Camtasia Resources
--   [Camtasia tutorials by Techsmith](https://www.techsmith.com/tutorial-camtasia.html){:target="_blank" rel="noopener"} (Official tutorials by TechSmith)
+- [Camtasia tutorials by Techsmith](https://www.techsmith.com/tutorial-camtasia.html){:target="_blank" rel="noopener"} (Official tutorials by TechSmith)
 -	[Camtasia Tutorials for Windows & Mac YouTube Tutorials by TechSmith](https://youtube.com/playlist?list=PLDyDYqoIde4B3pQdSSq_PE8E77_QbM46z){:target="_blank" rel="noopener"} (Video-based tutorials on Camtasia by TechSmith)
 -	[Camtasia Advanced Series YouTube Tutorials by TechSmith](https://youtube.com/playlist?list=PLDyDYqoIde4ASeOncy-W98OA3wZiRiYfz){:target="_blank" rel="noopener"} (Video-based tutorials on the 2021 version of Snagit by TechSmith)
 -	[TechSmith Webinar Library](https://www.techsmith.com/webinar-recordings.html){:target="_blank" rel="noopener"} (Tips, tricks, and best practices for using Camtasia and other TechSmith products)
